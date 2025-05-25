@@ -3,7 +3,7 @@
 ## THÀNH VIÊN
 
 1. Trần Ngọc Hoàng 
-2. Ngô Đình TínTín
+2. Ngô Đình Tín
 3.
 4. Bùi Thị Nhật Nguyệt
 
