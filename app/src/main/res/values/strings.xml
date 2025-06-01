@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DUANTN</string>
+    <string name="hint_email">Nhập Email</string>
+    <string name="reset_password">Đặt lại mật khẩu</string>
+</resources>
