@@ -1,0 +1,50 @@
+.sidebar {
+  width: 220px;
+  background-color: #f9f9f9;
+  padding: 20px;
+  height: 100vh;
+  box-shadow: 1px 0 5px rgba(0, 0, 0, 0.05);
+  display: flex;
+  flex-direction: column;
+}
+
+.logo {
+  font-size: 22px;
+  font-weight: bold;
+  margin-bottom: 30px;
+}
+
+.menu {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.sidebar hr{
+  border-top: 1px solid #ddd; /* Đường kẻ nhẹ */
+  margin: 10px 0;
+}
+.menu li {
+  display: flex;
+  align-items: center;
+  padding: 10px 12px;
+  border-radius: 8px;
+  color: #555;
+  cursor: pointer;
+  margin-bottom: 8px;
+  transition: background 0.2s;
+}
+
+.menu li:hover {
+  background-color: #ffe5c2;
+}
+
+.menu li.active {
+  background-color: #ff8800;
+  color: white;
+}
+
+.icon {
+  margin-right: 10px;
+  font-size: 18px;
+}
