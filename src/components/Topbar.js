@@ -17,7 +17,7 @@ const Topbar = () => {
         <div className="topbar-user">
           <img src={avatar} alt="User Avatar" className="avatar" />
           <div>
-            <div className="username">Marcus George</div>
+            <div className="username">Admin</div>
             <div className="role">Admin</div>
           </div>
         </div>
