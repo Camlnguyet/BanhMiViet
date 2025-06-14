@@ -1,0 +1,18 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Theme.BanhMiViet" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- Màu nền chính -->
+        <item name="android:colorBackground">#F5F5F5</item> <!-- Xám nhạt -->
+
+        <!-- Màu chủ đạo -->
+        <item name="colorPrimary">#FFFFFF</item>   <!-- Trắng -->
+        <item name="colorPrimaryVariant">#E0E0E0</item> <!-- Xám sáng -->
+        <item name="colorOnPrimary">#000000</item> <!-- Text màu đen -->
+
+        <!-- Nút / accent -->
+        <item name="colorAccent">#9E9E9E</item> <!-- Accent xám -->
+
+        <!-- Text -->
+        <item name="android:textColorPrimary">#212121</item>
+        <item name="android:textColorSecondary">#757575</item>
+    </style>
+</resources>
